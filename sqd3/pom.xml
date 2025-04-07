@@ -75,7 +75,7 @@
 										<limit>
 											<counter>METHOD</counter>
 											<value>COVEREDRATIO</value>
-											<minimum>0.95</minimum> <!-- enforce
+											<minimum>0.80</minimum> <!-- enforce
 											80% line coverage -->
 										</limit>
 									</limits>
